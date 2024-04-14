@@ -2,7 +2,7 @@
 
 ## Description
 
-This project explores fundamental techniques of machine learning, focusing on both supervised and unsupervised learning methods. It includes a Jupyter Notebook that demonstrates various algorithms applied to a dataset provided in `inpFle_BCCP.csv`. The dataset is a bank dataset that stores information on their customers such as gender, age and estimated salary. With the dataset some techniques such as K-means and Decision Trees will be utilised to get a better understanding of the data.
+This project explores fundamental techniques of machine learning learnt from an exercise, focusing on both supervised and unsupervised learning methods. It includes a Jupyter Notebook that demonstrates various algorithms applied to a dataset provided in `inpFle_BCCP.csv`. The dataset is a bank dataset that stores information on their customers such as gender, age and estimated salary. With the dataset, some techniques such as K-means and Decision Trees will be utilised to get a better understanding of the data.
 
 ## Contents
 
