@@ -2,7 +2,7 @@
 
 ## Description
 
-This project explores fundamental techniques of machine learning, focusing on both supervised and unsupervised learning methods. It includes a Jupyter Notebook that demonstrates various algorithms applied to a dataset provided in `inpFle_BCCP.csv`. The dataset is a bank dataset that stores information on their customers such as gender, age and estimated salary.
+This project explores fundamental techniques of machine learning, focusing on both supervised and unsupervised learning methods. It includes a Jupyter Notebook that demonstrates various algorithms applied to a dataset provided in `inpFle_BCCP.csv`. The dataset is a bank dataset that stores information on their customers such as gender, age and estimated salary. With the dataset some techniques such as K-means and Decision Trees will be utilised to get a better understanding of the data.
 
 ## Contents
 
@@ -20,7 +20,9 @@ Before running the scripts, make sure you have the following installed:
 - matplotlib.pyplot
 - Scit-Learn packages
 
-## Feautures
+Download the `Machine Learning_Unsupervised_Supervised.ipynb` file and upload it to Jupyter Notebook to run.
+
+## Features and Techniques
 
 - K-means
 - SVC
