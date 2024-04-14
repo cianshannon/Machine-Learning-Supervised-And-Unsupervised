@@ -6,8 +6,8 @@ This project explores fundamental techniques of machine learning, focusing on bo
 
 ## Contents
 
--`Machine Learning_Unsupervised_Supervised.ipynb`
--`inpFle_BCCP.csv`
+- `Machine Learning_Unsupervised_Supervised.ipynb`
+- `inpFle_BCCP.csv`
 
 ## How to Use
 
