@@ -6,7 +6,7 @@ This project explores fundamental techniques of machine learning, focusing on bo
 
 ## Contents
 
--`Machine Learning_Unsupervised_Supervised.ipynb
+-`Machine Learning_Unsupervised_Supervised.ipynb`
 -`inpFle_BCCP.csv`
 
 ## How to Use
@@ -19,3 +19,12 @@ Before running the scripts, make sure you have the following installed:
 - Numpy library
 - matplotlib.pyplot
 - Scit-Learn packages
+
+## Feautures
+
+- K-means
+- SVC
+- Gaussian Naive Bayes
+- K Nearest Neighbour
+- Decision Trees
+- Linear Regression
